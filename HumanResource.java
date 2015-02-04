@@ -37,6 +37,7 @@ public class HumanResource
         fireButt.setOnAction((ActionEvent e) ->
         {
 
+
         });
 
         Label a = new Label();

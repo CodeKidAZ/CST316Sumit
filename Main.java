@@ -20,7 +20,7 @@ public class Main  extends Application
 
 */
         //Welcome a = new Welcome(primaryStage);
-        HumanResource b = new HumanResource(primaryStage);
+        HumanResource a = new HumanResource(primaryStage);
 
 
 
